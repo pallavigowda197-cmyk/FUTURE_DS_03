@@ -1,0 +1,7 @@
+channel,visitors,leads,customers,visitor_to_lead_pct,lead_to_customer_pct,overall_conv_pct,revenue_usd,spend_usd,roi_x
+Referral,1080,406,74,37.59,18.23,6.85,108337,2030,53.4
+Email,1200,365,43,30.42,11.78,3.58,59854,2920,20.5
+Direct,1800,333,21,18.5,6.31,1.17,29143,0,
+Organic Search,2880,453,33,15.73,7.28,1.15,41836,5436,7.7
+Paid Search,2400,544,19,22.67,3.49,0.79,27301,26112,1.0
+Social Media,2640,257,1,9.73,0.39,0.04,1006,8995,0.1
